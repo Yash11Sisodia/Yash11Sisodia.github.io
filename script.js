@@ -81,11 +81,11 @@ function waitAndResponce(inputText) {
             sendTextMessage(resumeString);
             break;
         case "skills":
-            sendTextMessage("<span class='sk'>I am currently pursuing B.Tech degree in Computer Science Engineering.<br><br>I can comfortably write code in following languages :<br><span class='bold'>TypeScript<br>Java<br>C++<br>C<br>C#<br>javascript<br>Elixir<br>Python<br>Rust</span><br><br>I've experiance with following frameworks :<span class='bold'><br>ExpressJS<br>Phoenix<br>ReactJs<br>Spring Boot</span><br><br>I use <span class='bold'>Arch Linux</span> as daily driver on my HP Pavilion 15-ec0xxx<br>OS:Arch Linux<br>DE:Gnome(More often) Kde(often)<br>Favourite IDE:VSCode</span>");
+            sendTextMessage("<span class='sk'>I can comfortably write code in following languages :<br><span class='bold'>TypeScript<br>Java<br>C++<br>C<br>C#<br>javascript<br>Elixir<br>Python<br>Rust</span><br><br>I've experiance with following frameworks :<span class='bold'><br>ExpressJS<br>Phoenix<br>ReactJs<br>Spring Boot</span><br><br>I use <span class='bold'>Arch Linux</span> as daily driver on my HP Pavilion 15-ec0xxx<br>OS:Arch Linux<br>DE:Gnome(More often) Kde(often)<br>Favourite IDE:VSCode</span>");
             break;
 
         case "education":
-            sendTextMessage("I am just completed my B.E degree in Computer Science Engineering from Panjab University,Chandigarh<br>Passing Year : 2023<br>");
+            sendTextMessage("I have just completed my B.E degree in Computer Science Engineering from Panjab University,Chandigarh<br>Passing Year : 2023<br>");
             break;
         case "clear":
             clearChat();
