@@ -91,7 +91,7 @@ function waitAndResponce(inputText) {
             clearChat();
             break;
         case "about":
-            sendTextMessage("🛠️💻 Working as only backend developer of a 3 member team and utilized PostgreSQL, ExpressJS, Nodejs, AWS,  Docker and Nginx to build and maintain login.zyvka.com, constructed it and deployed it on AWS using Github actions CI/CD from scratch");
+            sendTextMessage("🛠️💻 Working as only backend developer of a 3 member team and utilized PostgreSQL, ExpressJS, Nodejs, AWS,  Docker and Nginx to build and maintain login.zyvka.com, worked on its deployment on AWS and improved CI/CD");
             break;
         case "contact":
             sendTextMessage(contactString);
